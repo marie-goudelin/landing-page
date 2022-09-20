@@ -1,0 +1,18 @@
+#bg{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: -2;
+}
+body {
+    margin:0;
+}
+
+.surf-images {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
